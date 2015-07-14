@@ -19,3 +19,6 @@
 [submodule "ansible-dotfiles"]
 	path = ansible-dotfiles
 	url = https://github.com/veggiemonk/ansible-dotfiles
+[submodule "ansible-tmux"]
+	path = ansible-tmux
+	url = https://github.com/veggiemonk/ansible-tmux

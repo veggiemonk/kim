@@ -1,0 +1,3 @@
+- hosts: kim
+- include: server.yml
+- include: user-custom.yml

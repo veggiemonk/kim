@@ -1,0 +1,6 @@
+---
+- hosts: kim
+  remote_user: veggiemonk
+  roles:
+    - ansible-dotfiles
+

@@ -1,0 +1,12 @@
+---
+- hosts: kim
+  roles:
+    - ansible-basic-server
+    - ansible-user
+    - angstwad.docker_ubuntu
+    - ansible-nodejs
+    - ansible-git
+    - ansible-vim
+    - ansible-tmux
+    #- ssh
+
