@@ -1,0 +1,21 @@
+[submodule "ansible-basic-server"]
+	path = ansible-basic-server
+	url = https://github.com/veggiemonk/ansible-basic-server
+[submodule "ansible-user"]
+	path = ansible-user
+	url = https://github.com/veggiemonk/ansible-user
+[submodule "ansible-git"]
+	path = ansible-git
+	url = https://github.com/veggiemonk/ansible-git
+[submodule "ansible-nodejs"]
+	path = ansible-nodejs
+	url = https://github.com/veggiemonk/ansible-nodejs
+[submodule "ansible-vim"]
+	path = ansible-vim
+	url = https://github.com/veggiemonk/ansible-vim
+[submodule "ansible-ohmyzsh"]
+	path = ansible-ohmyzsh
+	url = https://github.com/veggiemonk/ansible-ohmyzsh
+[submodule "ansible-dotfiles"]
+	path = ansible-dotfiles
+	url = https://github.com/veggiemonk/ansible-dotfiles

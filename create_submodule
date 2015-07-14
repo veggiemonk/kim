@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+echo "Cloning repo..."
+repos=(ansible-basic-server ansible-user ansible-git ansible-nodejs ansible-vim
+ansible-ohmyzsh ansible-dotfiles)
+for repo in "${repos[@]}" ; do
+    echo "repo: $repo"
+    git submodule add https://github.com/veggiemonk/$repo $repo
+done
+
