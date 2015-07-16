@@ -4,6 +4,7 @@
     - ansible-basic-server
     - ansible-user
     - angstwad.docker_ubuntu
+      docker_group_members: [veggiemonk]
     - ansible-nodejs
     - ansible-git
     - ansible-vim
