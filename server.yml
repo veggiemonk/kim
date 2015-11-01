@@ -1,10 +1,10 @@
 ---
 - hosts: kim
   roles:
-    - ansible-basic-server
-    - ansible-user
-    - role: angstwad.docker_ubuntu
-      docker_group_members: [veggiemonk]
+    #- ansible-basic-server
+    #- ansible-user
+    #- role: angstwad.docker_ubuntu
+    #  docker_group_members: [veggiemonk]
     # - ansible-nodejs
     - ansible-git
     - ansible-vim
